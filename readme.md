@@ -9,8 +9,5 @@ i added this locally
 
 added this from github
 
-<<<<<<< HEAD
 this is main
-=======
 added this locally
->>>>>>> main
